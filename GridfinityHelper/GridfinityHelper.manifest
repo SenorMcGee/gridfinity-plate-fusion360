@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"7c1e9f4a-2b7d-4c55-9a1e-6f0d3b8a1c42",
+	"author":	"Pablo Trejo",
+	"description":	{
+		"":	"Generate Gridfinity plates (3D printed, laser cut, CNC) for a given length and width."
+	},
+	"version":	"0.1.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
